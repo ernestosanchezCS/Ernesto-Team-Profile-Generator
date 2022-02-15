@@ -37,14 +37,21 @@ This project uses 2 npm packages:
 
 -   [axios](https://www.npmjs.com/package/axios)
 -   [inquirer](https://www.npmjs.com/package/inquirer)
+
+```
+
     To install necessary dependencies, run the following command:
 
 ```
+
 npm i inquirer
+
 ```
 
 ```
+
 npm install -y
+
 ```
 
 ## Usage
@@ -52,7 +59,9 @@ npm install -y
 To run tests, run the following command:
 
 ```
+
 node index.js
+
 ```
 
 ## License
@@ -70,3 +79,4 @@ npm test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact [ernestosanchezCS](https://github.com/ernestosanchezCS/) directly at ernestosanchez8888@gmail.com.
+```
