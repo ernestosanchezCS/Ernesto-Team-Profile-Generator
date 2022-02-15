@@ -29,8 +29,8 @@ AS A manager, I WANT to generate a webpage that displays my team's basic info, S
 
 ## Screenshots
 
-![Screen Shot](https://.png)
-![Screen Shot](https://.png)
+![Screen Shot](./assets/images/teamGen.png)
+![Screen Shot](/assets/images/teamGen2.png)
 
 ## Installation
 
@@ -59,7 +59,6 @@ node index.js
 ## License
 
     License is MIT standard license.
-
 
 ## Contributing
 
