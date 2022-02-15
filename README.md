@@ -24,8 +24,7 @@ AS A manager, I WANT to generate a webpage that displays my team's basic info, S
 
 ## Demo Video
 
-![Demo Good ReadMe Generator]
-<video src='![Demo Good ReadMe Generator]' width=180/>
+[VIDEO](https://drive.google.com/file/d/1nBiljxtG67WSVm8eaDlcOQGXTsbNsQ91/view?usp=sharing)
 
 ## Screenshots
 

@@ -1,0 +1,29 @@
+:root {
+            --primary: #3c7450;
+            --secondary: #9caea9;
+            --dark: #000000;
+            --light: #ffffff;
+            --blue: #5c79af;
+            --border-radius: 0.3rem;
+        }
+        
+        .jumbotron {
+            flex: auto, auto;
+            padding: 2%;
+            height: 190px;
+            background-image: linear-gradient(var(--primary), var(--secondary));
+        }
+        
+        .card {
+            min-width: 200px;
+            width: auto;
+            color: var(--light);
+            background-color: var(--blue);
+            box-shadow: 0 3px 10px rgb(0 0 0 / 1.9);
+        }
+        
+        .card-body {
+            color: var(--dark);
+            background-color: var(--light);
+        }
+        
