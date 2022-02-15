@@ -17,7 +17,6 @@ const validateEmail = (email) => {
 
 var objects = [];
 var employees = 0;
-var finished = false;
 
 const start = [
     {
@@ -89,7 +88,7 @@ const internQ = [
     {
         type: "input",
         name: "name",
-        message: "Please provide the engineer's name: ",
+        message: "Please provide the intern's name: ",
         default: "Jerry Doe",
     },
     {
